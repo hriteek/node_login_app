@@ -8,4 +8,4 @@ Things i have learned in this project are as follows:
 5. Password encryption with bcryptjs
 6. ejs, flash messages, mongoDB (with mongoose ODM)
 
-I have followed this tutorial.[link](https://www.youtube.com/watch?v=6FOq4cUdH8k)
+I have followed this tutorial. [link...](https://www.youtube.com/watch?v=6FOq4cUdH8k)
